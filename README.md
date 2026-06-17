@@ -30,12 +30,19 @@ This project is a **Computer Vision–based Vehicle Rules Violation Detection Sy
 
 Vehicle-Rules-Violation-Detection/
 │
+
 ├── violation/              # Stores captured violation images
+
 ├── plates/                 # Stores detected license plate images
+
 ├── best_new.pt             # License plate detection model
+
 ├── tracker.py              # Object tracking module
-├── Violation.py            # main implementation
+
+├── violation.py            # main implementation
+
 ├── requirements.txt
+
 └── README.md
 
 
