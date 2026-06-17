@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pandas
+easyocr
+numpy
+yolov8n.pt
+best.pt
