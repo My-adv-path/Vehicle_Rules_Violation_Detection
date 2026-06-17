@@ -1,0 +1,1 @@
+# Vehicle_Violation_Detection_with_EasyOCR
